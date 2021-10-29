@@ -9,7 +9,6 @@ For more information you can read the report.pdf file.
 So images of the project are preview here:
 
 
-
-![alt text](https://github.com/georgeleve/CS360/tree/main/images1.jpg)
-![alt text](https://github.com/georgeleve/CS360/tree/main/images1.jpg)
-![alt text](https://github.com/georgeleve/CS360/tree/main/images1.jpg)
+![alt text](https://github.com/georgeleve/CS360/blob/main/images/image1.jpg)
+![alt text](https://github.com/georgeleve/CS360/blob/main/images/image2.jpg)
+![alt text](https://github.com/georgeleve/CS360/blob/main/images/image3.jpg)
