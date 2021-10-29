@@ -10,6 +10,6 @@ So images of the project are preview here:
 
 
 
-![alt text](https://github.com/georgeleve/CS-252-SorryGame-MVC-Architecture/blob/master/game_image1.jpg)
-![alt text](https://github.com/georgeleve/CS-252-SorryGame-MVC-Architecture/blob/master/game_image2.jpg)
-![alt text](https://github.com/georgeleve/CS-252-SorryGame-MVC-Architecture/blob/master/game_image3.jpg)
+![alt text](https://github.com/georgeleve/CS360/tree/main/images1.jpg)
+![alt text](https://github.com/georgeleve/CS360/tree/main/images1.jpg)
+![alt text](https://github.com/georgeleve/CS360/tree/main/images1.jpg)
