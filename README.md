@@ -7,6 +7,8 @@ For more information, you can read the report.pdf file.
 
  
 ![alt text](https://github.com/georgeleve/CS360/blob/main/images/image1.jpg)  
+
+
 ![alt text](https://github.com/georgeleve/CS360/blob/main/images/image2.jpg)  
 ![alt text](https://github.com/georgeleve/CS360/blob/main/images/image3.jpg)  
 ![alt text](https://github.com/georgeleve/CS360/blob/main/images/image4.jpg)  
