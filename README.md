@@ -4,8 +4,6 @@ In a team of 2 people, we created a Hospital Database.
 Technologies that we used: Java, JDBC, SQL, MySQL, phpMyAdmin, XAMPP.  
 For more information, you can read the report.pdf file.  
 
-
- 
 ![alt text](https://github.com/georgeleve/CS360/blob/main/images/image1.jpg)<br/><br/><br/><br/>
 ![alt text](https://github.com/georgeleve/CS360/blob/main/images/image2.jpg)<br/><br/><br/><br/>
 ![alt text](https://github.com/georgeleve/CS360/blob/main/images/image3.jpg)<br/><br/><br/><br/>
