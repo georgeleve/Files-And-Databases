@@ -6,6 +6,8 @@ For more information, you can read the report.pdf file.
 
 **Custom Query:**  
 ![alt text](https://github.com/georgeleve/CS360/blob/main/images/image1.jpg)<br/><br/><br/><br/>
+
+**Custom Update - Admins can insert or update the information of Doctors, Nurses, Admins:**
 ![alt text](https://github.com/georgeleve/CS360/blob/main/images/image2.jpg)<br/><br/><br/><br/>
 ![alt text](https://github.com/georgeleve/CS360/blob/main/images/image3.jpg)<br/><br/><br/><br/>
 ![alt text](https://github.com/georgeleve/CS360/blob/main/images/image4.jpg)<br/><br/><br/><br/>
