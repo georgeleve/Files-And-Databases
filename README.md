@@ -1,7 +1,7 @@
 # [Files and Databases](https://www.csd.uoc.gr/CSD/index.jsp?content=courses_catalog&openmenu=demoAcc3&lang=en&course=24)  
 
 In a team of 2 people, we created a Hospital Database.  
-Technologies that we used: Java, JDBC, SQL, MySQL, phpMyAdmin, XAMPP.  
+Technologies that we used: Java, Java Swing, SQL, MySQL, phpMyAdmin, XAMPP, JDBC (Java Database Connectivity).  
 For more information, you can read the report.pdf file.  
 
 ![alt text](https://github.com/georgeleve/CS360/blob/main/images/image1.jpg)<br/><br/><br/><br/>
