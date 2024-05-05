@@ -14,10 +14,12 @@ For more information, you can read the report.pdf file.
 (We used this query to the database: SELECT AMKA, Symptoms, DoctorID from Visits Where Date=DATE(NOW()))**
 ![alt text](https://github.com/georgeleve/CS360/blob/main/images/image3.jpg)<br/><br/><br/><br/>
 
-**.**
+**Statistics per day and month: for each duty and all the duties of the month statistics on the number of incidents, the diseases
+that were diagnosed, the tests done and the drugs given.**
+**Daily Statistics:**
 ![alt text](https://github.com/georgeleve/CS360/blob/main/images/image4.jpg)<br/><br/><br/><br/>
 
-**.**
+**Monthly Statistics:**
 ![alt text](https://github.com/georgeleve/CS360/blob/main/images/image5.jpg)<br/><br/><br/><br/>
 
 **.**
