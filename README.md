@@ -18,3 +18,7 @@ For more information, you can read the report.pdf file.
 ![alt text](https://github.com/georgeleve/CS360/blob/main/images/image10.jpg)  
 ![alt text](https://github.com/georgeleve/CS360/blob/main/images/image11.jpg)  
 ![alt text](https://github.com/georgeleve/CS360/blob/main/images/image12.jpg)  
+![alt text](https://github.com/georgeleve/CS360/blob/main/images/image13.jpg)  
+![alt text](https://github.com/georgeleve/CS360/blob/main/images/image14.jpg)  
+![alt text](https://github.com/georgeleve/CS360/blob/main/images/image15.jpg)  
+![alt text](https://github.com/georgeleve/CS360/blob/main/images/image16.jpg)  
