@@ -34,10 +34,8 @@ personal information of the patient and the chronic diseases from which he suffe
 **Graphical Interface - Login Panel:**
 ![alt text](https://github.com/georgeleve/CS360/blob/main/images/image9.jpg)<br/><br/><br/><br/>
 
-**Register Panel:**
 ![alt text](https://github.com/georgeleve/CS360/blob/main/images/image10.jpg)<br/><br/><br/><br/>
 
-**Nurse Panel**
 ![alt text](https://github.com/georgeleve/CS360/blob/main/images/image16.jpg)<br/><br/><br/><br/>
 
 **Patient Interface:**
