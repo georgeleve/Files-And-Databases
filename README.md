@@ -15,35 +15,37 @@ For more information, you can read the report.pdf file.
 ![alt text](https://github.com/georgeleve/CS360/blob/main/images/image3.jpg)<br/><br/><br/><br/>
 
 **Statistics per day and month: for each duty and all the duties of the month statistics on the number of incidents, the diseases
-that were diagnosed, the tests done and the drugs given.**
+that were diagnosed, the tests done and the drugs given.**<br/>
 **Daily Statistics:**
 ![alt text](https://github.com/georgeleve/CS360/blob/main/images/image4.jpg)<br/><br/><br/><br/>
 
 **Monthly Statistics:**
 ![alt text](https://github.com/georgeleve/CS360/blob/main/images/image5.jpg)<br/><br/><br/><br/>
 
-**.**
+**Special reporting status of COVID-19 incidents which includes all
+personal information of the patient and the chronic diseases from which he suffered**
 ![alt text](https://github.com/georgeleve/CS360/blob/main/images/image6.jpg)<br/><br/><br/><br/>
 
-**.**
+**For each staff member, we can see the shifts they worked over a period of time.**
 ![alt text](https://github.com/georgeleve/CS360/blob/main/images/image7.jpg)<br/><br/><br/><br/>
 
-**.**
+**Generate tomorrow’s shift**
 ![alt text](https://github.com/georgeleve/CS360/blob/main/images/image8.jpg)<br/><br/><br/><br/>
 
-**.**
+**Graphical Interface** <br/>
+**Login Panel**
 ![alt text](https://github.com/georgeleve/CS360/blob/main/images/image9.jpg)<br/><br/><br/><br/>
 
-**.**
+**REgister Panel**
 ![alt text](https://github.com/georgeleve/CS360/blob/main/images/image10.jpg)<br/><br/><br/><br/>
 
-**.**
+**Patient Interface**
 ![alt text](https://github.com/georgeleve/CS360/blob/main/images/image11.jpg)<br/><br/><br/><br/>
 
-**.**
+**Doctor Interface**
 ![alt text](https://github.com/georgeleve/CS360/blob/main/images/image12.jpg)<br/><br/><br/><br/>
 
-**.**
+**Nurse Interface**
 ![alt text](https://github.com/georgeleve/CS360/blob/main/images/image13.jpg)<br/><br/><br/><br/>
 
 **.**
