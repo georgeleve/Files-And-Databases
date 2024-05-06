@@ -13,7 +13,7 @@ Technologies that we used: Java, Java Swing, SQL, MySQL, phpMyAdmin, XAMPP, JDBC
 ![alt text](https://github.com/georgeleve/CS360/blob/main/images/image3.jpg)<br/><br/><br/><br/>
 
 **Statistics per day and month: for each duty and all the duties of the month statistics on the number of incidents, the diseases
-that were diagnosed, the tests done and the drugs given.** <br/>
+that were diagnosed, the tests done and the drugs given.** <br/><br/>
 **Daily Statistics:**
 ![alt text](https://github.com/georgeleve/CS360/blob/main/images/image4.jpg)<br/><br/><br/><br/>
 
