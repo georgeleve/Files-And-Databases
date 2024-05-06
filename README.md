@@ -38,19 +38,19 @@ personal information of the patient and the chronic diseases from which he suffe
 
 ![alt text](https://github.com/georgeleve/CS360/blob/main/images/image16.jpg)<br/><br/><br/><br/>
 
-**Patient Interface:**
+**Patient Panel - Information:**                           
 ![alt text](https://github.com/georgeleve/CS360/blob/main/images/image11.jpg)<br/><br/><br/><br/>
 
-**Doctor Interface:**
+**Patient Panel - Visit:**  
 ![alt text](https://github.com/georgeleve/CS360/blob/main/images/image12.jpg)<br/><br/><br/><br/>
 
-**Nurse Interface:**
+**Doctor Panel - Diagnose Patient:**  
 ![alt text](https://github.com/georgeleve/CS360/blob/main/images/image13.jpg)<br/><br/><br/><br/>
 
-**.**
+**Doctor Panel - Prescription:**
 ![alt text](https://github.com/georgeleve/CS360/blob/main/images/image14.jpg)<br/><br/><br/><br/>
 
-**.**
+**Doctor Panel - Re-examination:**
 ![alt text](https://github.com/georgeleve/CS360/blob/main/images/image15.jpg)<br/><br/><br/><br/>
 
 
