@@ -30,14 +30,16 @@ personal information of the patient and the chronic diseases from which he suffe
 **Generate tomorrow’s shift:**
 ![alt text](https://github.com/georgeleve/CS360/blob/main/images/image8.jpg)<br/><br/><br/><br/>
 
-**Graphical Interface - Login Panel:**
+**Login Panel:**
 ![alt text](https://github.com/georgeleve/CS360/blob/main/images/image9.jpg)<br/><br/><br/><br/>
 
+**Register Panel:**  
 ![alt text](https://github.com/georgeleve/CS360/blob/main/images/image10.jpg)<br/><br/><br/><br/>
 
+**Nurse Panel:**  
 ![alt text](https://github.com/georgeleve/CS360/blob/main/images/image16.jpg)<br/><br/><br/><br/>
 
-**Patient Panel - Information:**                           
+**Patient Panel - Information:**  
 ![alt text](https://github.com/georgeleve/CS360/blob/main/images/image11.jpg)<br/><br/><br/><br/>
 
 **Patient Panel - Visit:**  
