@@ -37,6 +37,9 @@ personal information of the patient and the chronic diseases from which he suffe
 **Register Panel:**
 ![alt text](https://github.com/georgeleve/CS360/blob/main/images/image10.jpg)<br/><br/><br/><br/>
 
+**Nurse Panel**
+![alt text](https://github.com/georgeleve/CS360/blob/main/images/image16.jpg)<br/><br/><br/><br/>
+
 **Patient Interface:**
 ![alt text](https://github.com/georgeleve/CS360/blob/main/images/image11.jpg)<br/><br/><br/><br/>
 
@@ -52,5 +55,4 @@ personal information of the patient and the chronic diseases from which he suffe
 **.**
 ![alt text](https://github.com/georgeleve/CS360/blob/main/images/image15.jpg)<br/><br/><br/><br/>
 
-**.**
-![alt text](https://github.com/georgeleve/CS360/blob/main/images/image16.jpg)<br/><br/><br/><br/>
+
