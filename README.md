@@ -4,7 +4,7 @@ In a team of 2 people, we created a Hospital Database. For more information, you
 Technologies that we used: Java, Java Swing, SQL, MySQL, phpMyAdmin, XAMPP, JDBC (Java Database Connectivity).  
 
 **Custom Query:**
-![alt text](https://github.com/georgeleve/CS360/blob/main/images/image1.jpg)<br/><br/><br/><br/>
+![alt text](https://github.com/georgeleve/CS360/blob/main/images/image1.jpg)<br/><br/><br/>
 
 **Custom Update - Admins can insert or update the information of Doctors, Nurses, and Admins:**
 ![alt text](https://github.com/georgeleve/CS360/blob/main/images/image2.jpg)<br/><br/><br/><br/>
